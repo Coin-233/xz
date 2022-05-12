@@ -2,3 +2,4 @@
 V2ray Download[https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.29.zip]
 CDN [https://proxy.freecdn.workers.dev/?url=https://github.com/badafans/better-cloudflare-ip/releases/latest/download/windows.zip]
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAidHJvamFudm12bHNzbC5oZXJva3VhcHAuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjI0YjRiMWUxLTdhODktNDVmNi04NThjLTI0MmNmNTNiNWJkYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
